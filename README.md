@@ -20,9 +20,6 @@ Este repositório contém o código e os arquivos associados ao desenvolvimento 
   - **STL** — ideal para impressão 3D  
   - **STEP** — ideal para edição em softwares CAD (Fusion, SolidWorks, FreeCAD etc.)
 
-- **/docs**  
-  Arquivos complementares e documentação adicional (opcional).
-
 ## 🚀 Como Executar
 
 ### 1. Clone o repositório
